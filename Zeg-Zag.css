@@ -1,0 +1,17 @@
+
+
+
+td{
+    background-color: rgb(234, 255, 0);
+    width: 60px;
+    height: 60px;
+}
+
+ td:nth-child(even){
+    
+    background:rgb(22, 220, 151) ;
+    top :30px;
+    position: relative;
+
+ }
+ 
