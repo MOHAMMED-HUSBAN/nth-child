@@ -7,7 +7,7 @@ td{
     height: 60px;
 }
 
- td:nth-child(even){
+td:nth-child(even){
     
     background:rgb(22, 220, 151) ;
     top :30px;
