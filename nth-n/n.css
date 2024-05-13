@@ -1,0 +1,9 @@
+td{
+    background-color: rgb(127, 216, 213);
+    width: 60px;
+    height: 60px;
+}
+
+.star:nth-child(1n){
+    background-color:rgb(50, 78, 127);
+}
